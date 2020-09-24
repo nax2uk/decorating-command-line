@@ -39,7 +39,9 @@ bundle init
 * [Useful ANSI Escape Sequences References](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)
 * [Create your own ASCII Text Banner](https://fsymbols.com/generators/carty/)
 
+## Authors
 
+* **Azlina Yeo** - [nax2uk](https://github.com/nax2uk)
 
 
 
