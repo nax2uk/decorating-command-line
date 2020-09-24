@@ -10,10 +10,16 @@ You will require ruby version 2.6.3.
 
 ### Installing
 
-Clone this repo
+Clone this repo using https:
 
 ```bash
-git clone https://github.com/nax2/decorating-command-line
+git clone https://github.com/nax2uk/decorating-command-line.git
+
+cd decorating-command-line
+```
+Clone this repo using ssh:
+```bash
+git clone https://github.com/nax2uk/decorating-command-line.git
 
 cd decorating-command-line
 ```
