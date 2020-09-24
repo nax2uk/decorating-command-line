@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.8.1)
+    lolize (0.0.3)
+      paint (~> 0.8.3)
+    paint (0.8.7)
+    rainbow (3.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  colorize
+  lolize
+  rainbow
+
+BUNDLED WITH
+   2.1.4
