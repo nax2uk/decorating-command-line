@@ -19,7 +19,7 @@ cd decorating-command-line
 ```
 Clone this repo using ssh:
 ```bash
-git clone https://github.com/nax2uk/decorating-command-line.git
+git clone git@github.com:nax2uk/decorating-command-line.git
 
 cd decorating-command-line
 ```
@@ -29,5 +29,7 @@ Install required packages and dependencies
 ```bash
 bundle init
 ```
+### Ruby Gems Used
+** 
 
 
