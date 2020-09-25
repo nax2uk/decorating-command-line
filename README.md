@@ -35,6 +35,7 @@ bundle init
 * [lolize](https://github.com/sickill/rainbow/tree/master) - rainbow-coloured fonts.
 
 ### Useful Referencees
+* [What are ANSI Escape Sequences](https://en.wikipedia.org/wiki/ANSI_escape_code)
 * [Build your own Command Line with ANSI escape codes](https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
 * [Useful ANSI Escape Sequences References](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)
 * [Create your own ASCII Text Banner](https://fsymbols.com/generators/carty/)
