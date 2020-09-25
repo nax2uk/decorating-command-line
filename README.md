@@ -29,6 +29,28 @@ Install required packages and dependencies
 ```bash
 bundle init
 ```
+### Methods of Outputting Colour via Ruby
+* use the print/puts command containing ANSI Escape Sequences 
+
+```
+print "\e[0;33;45m     This is a yellow font with a magenta background  \e[0m\n\n"
+```
+* extend the string class
+```
+class String
+    def yellow;          "\e[33m#{self}\e[0m" end
+  
+    def bg_gray;        "\e[47m#{self}\e[0m" end
+    
+    def bold;           "\e[1m#{self}\e[22m" end
+end
+
+puts "Hello World".yellow.bg_gray.bold
+```
+
+* install a ruby gem
+
+
 ### Ruby Gems Used
 * [colorize](https://rdoc.info/github/fazibear/colorize) - limited font colours available
 * [rainbow](https://github.com/sickill/rainbow/tree/master) - many, many colours available
