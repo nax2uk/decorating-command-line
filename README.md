@@ -1,4 +1,4 @@
-# Adding Color to the Command Line
+# Output Color to the Command Line in Ruby
 
 This repository contains some example files that was used in my Show and Tell at Made Tech Academy. It contains introductory information on how to decorate the command line for our tic-tac-toe project.
 
