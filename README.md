@@ -1,6 +1,7 @@
 # Output Color to the Command Line in Ruby
 
-This repository contains some example files that was used in my Show and Tell at Made Tech Academy. It contains introductory information on how to decorate the command line for our tic-tac-toe project.
+This repository contains some example files that was used in a mini showcase at Made Tech Academy. 
+It contains introductory code on how to output colored fonts using Ruby for our tic-tac-toe project.
 
 ## Getting Started
 
